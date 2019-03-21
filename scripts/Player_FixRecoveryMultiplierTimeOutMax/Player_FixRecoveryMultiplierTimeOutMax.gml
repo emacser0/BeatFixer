@@ -1,0 +1,1 @@
+RecoveryMultiplierDecreaseTimeOutMax = RecoveryMultiplierDecreaseTimeOutMaxDefault - RecoveryMultiplierPenaltyRate * RecoveryMultiplier

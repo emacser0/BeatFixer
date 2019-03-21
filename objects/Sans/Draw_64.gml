@@ -1,0 +1,1 @@
+draw_text(600,32,"behavior : " + string(behavior))
